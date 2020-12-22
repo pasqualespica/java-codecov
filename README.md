@@ -1,7 +1,7 @@
 # [Codecov][0] Java Example
 
 <!-- [![Build Status](https://travis-ci.org/codecov/example-java.svg?branch=master)](https://travis-ci.org/pasqualespica/example-java) -->
-[![codecov](https://codecov.io/gh/codecov/example-java/branch/master/graph/badge.svg)](https://codecov.io/gh/pasqualespica/java-codecov)
+[![codecov](https://codecov.io/gh/pasqualespica/java-codecov/branch/master/graph/badge.svg)](https://codecov.io/gh/pasqualespica/java-codecov)
 
 ## Guide
 
